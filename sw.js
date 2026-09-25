@@ -1,4 +1,4 @@
-const CACHE_NAME = "ce-planner-v2-batch-tracker"
+const CACHE_NAME = "ce-planner-v3-batch-tracker"
 const APP_SHELL = ["/", "/manifest.webmanifest", "/app-icon-192.png", "/app-icon-512.png"]
 
 self.addEventListener("install", (event) => {
